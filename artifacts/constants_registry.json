@@ -1,0 +1,53 @@
+{
+  "constants": {
+    "eps_coh": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Appendix E.6; raw=0.0, ref=1.0, formula=eps_coh_raw",
+      "source": "artifacts/constants_extracted.json#eps_coh",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Appendix E.6",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.0
+    },
+    "kappa_artin": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 4.5 / Appendix A; raw=1.1041980000000002, ref=1.0, formula=c_artin_raw * packet_density_raw - e_artin_raw",
+      "source": "artifacts/constants_extracted.json#kappa_artin",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 4.5 / Appendix A",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.1041980000000002
+    },
+    "kappa_compact": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 5.3 / Appendix C; raw=0.8058017727639, ref=1.0, formula=1.0 / (1.0 + delta_comp_sup_raw)",
+      "source": "artifacts/constants_extracted.json#kappa_compact",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 5.3 / Appendix C",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 0.8058017727639
+    },
+    "rho_rigidity": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 6.1 / Appendix D; raw=1.079, ref=1.0, formula=rho_rigidity_raw",
+      "source": "artifacts/constants_extracted.json#rho_rigidity",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 6.1 / Appendix D",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.079
+    },
+    "sigma_automorphic": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 5.2 / Appendix B; raw=1.0779999999999998, ref=1.0, formula=auto_floor_raw - transfer_loss_raw - restart_loss_raw",
+      "source": "artifacts/constants_extracted.json#sigma_automorphic",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 5.2 / Appendix B",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.0779999999999998
+    },
+    "spectral_transfer": {
+      "notes": "Promoted by extraction pipeline; status=derived_numeric; source_section=paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 6.2 / Appendix E.4; raw=1.0357509999999999, ref=1.0, formula=c_spec_raw * transfer_gain_raw - e_spec_raw",
+      "source": "artifacts/constants_extracted.json#spectral_transfer",
+      "source_section": "paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md Section 6.2 / Appendix E.4",
+      "status": "derived_numeric",
+      "theorem_level": true,
+      "value": 1.0357509999999999
+    }
+  },
+  "updated_at_utc": "2026-03-11T23:03:30Z"
+}
