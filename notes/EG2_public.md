@@ -1,6 +1,6 @@
 # EG2 Public Note (Capture and Restart)
 
-Mature wording: `transport / local-to-global transfer`.
+Canonical wording: `transport / local-to-global transfer`.
 
 In-paper anchor: `paper/GRAND_RIEMANN_HYPOTHESIS_PREPRINT.md` (`GRD_G2`).
 
@@ -38,5 +38,5 @@ If transport accounting and restart preservation hold, then `GRD_G2` carries loc
 
 - gate: `GRD_G2`
 - artifact key: `sigma_automorphic`
-- mature equivalent: `transport / local-to-global transfer`
+- canonical equivalent: `transport / local-to-global transfer`
 - audit surface: `repro/run_repro.sh` and `repro/certificate_runtime.json`
